@@ -24,3 +24,4 @@ bluestock_mf_capstone/
 1. Install requirements: `pip install pandas numpy scipy matplotlib ipykernel`
 2. Run database setup in `Sql/schema.sql`
 3. Execute analytics in `Notebooks/04_performance_analytics.ipynb`
+   > **Disclaimer:** This repository uses publicly available AMFI Mutual Fund market data for analytical learning and portfolio showcase. No private company credentials or internal APIs are included.
